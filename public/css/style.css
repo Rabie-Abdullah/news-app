@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400&family=IBM+Plex+Sans+Arabic&family=Kumbh+Sans:wght@400;700&family=Tajawal:wght@400;700&display=swap');
+
+
+body {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
+}
+footer {
+    text-align: center;
+    border-top: 1px solid #523;
+    padding-top: 20px;
+}
+header a {
+    margin-left: 30px;
+    text-decoration: none;
+}
+footer span {
+    color: rgb(192, 38, 90);
+}
+.portrate {
+    width: 250px;
+}
+
